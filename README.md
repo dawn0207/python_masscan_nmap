@@ -1,0 +1,2 @@
+# python_masscan_nmap
+通过python调取masscan扫描开放端口，然后通过nmap对端口服务和版本进行确认，最终输出表格
