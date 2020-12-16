@@ -1,6 +1,6 @@
 #用作masscan+nmap扫描
-#author: Null
-#
+#author: dawn0207
+#git: https://github.com/dawn0207/python_masscan_nmap
 
 import masscan
 import threading
