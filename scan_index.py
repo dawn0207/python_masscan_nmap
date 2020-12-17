@@ -74,5 +74,5 @@ class Scan:
                 print(str(e))
         except Exception as e:
             print(str(e))
-if __name__=__'main'__:
+if __name__=='__main__':
     Scan()
